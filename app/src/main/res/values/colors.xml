@@ -11,4 +11,5 @@
     <color name="pastel_red">#FFFF6961</color>
     <color name="yellow">#FFFFFF00</color>
     <color name="turquoise_green">#FF0F7D63</color>
+    <color name="shadow">#FF373737</color>
 </resources>

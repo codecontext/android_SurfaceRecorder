@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Surface Recorder</string>
+    <string name="permission_text">Need Device Permissions</string>
+
 </resources>
